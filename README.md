@@ -4,5 +4,5 @@ Also program include animation of  spiraling scatter
 
 GUI module created with PyQT5
 
-### Screenshot
-![Alt text](/screenshot.png?raw=true "Screenshot")
+### Demo
+![Alt text](/demo.gif?raw=true "Screenshot")
